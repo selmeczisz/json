@@ -19,7 +19,7 @@
 "photo": "https://ibb.co/4fwTHwK",
 "descr": "This project works with different databases, the webpage is a collection of actors, movies, series. The items are sorted by popularity, and the user can search for them." Used technologies for this project: Javascript, React, Firebase.",
 "link":"https://movie-tv-actor-search.netlify.app/"
-}
+},
   {
 "id": "5",
 "title": "Blog",
