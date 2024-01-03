@@ -4,7 +4,7 @@
 "title": "Todos",
 "photo": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 "descr": "This project allows the user to create a user, add new blogposts, edit or delete existing blogposts, like blogpostst. The posts have different categories, the user can filter them. Used technologies for this project: Javascript, React, Firebase.",
-"link": 
+"link": "https://selmeczisz.github.io/traveller/#/traveller"
 },
 {
 "id": "3",
