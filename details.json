@@ -10,14 +10,14 @@
 "id": "3",
 "title": "Traveller",
 "photo": "https://ibb.co/rxFfnXD",
-"descr": "This project is a travel agencies webpage. The user can read the different pages, look for a tour, click on the cards for details. Used technologies for this project: Javascript, React, Firebase.",
+"descr": "This project is a travel agencies webpage. The user can read the different pages, look for a tour, click on the cards for details. Used technologies for this project: Javascript, React.",
 "link": "https://selmeczisz.github.io/traveller/#/traveller"
 },
 {
 "id": "4",
 "title": "Movies",
 "photo": "https://ibb.co/4fwTHwK",
-"descr": "This project works with different databases, the webpage is a collection of actors, movies, series. The items are sorted by popularity, and the user can search for them." Used technologies for this project: Javascript, React, Firebase.",
+"descr": "This project works with different databases, the webpage is a collection of actors, movies, series. The items are sorted by popularity, and the user can search for them. Used technologies for this project: Javascript, React.",
 "link":"https://movie-tv-actor-search.netlify.app/"
 },
   {
